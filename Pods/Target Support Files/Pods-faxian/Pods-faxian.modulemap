@@ -1,0 +1,6 @@
+framework module Pods_faxian {
+  umbrella header "Pods-faxian-umbrella.h"
+
+  export *
+  module * { export * }
+}
